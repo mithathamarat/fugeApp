@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteRule ^home.* index2.php [NC]
+RewriteRule ^InsertSQL.* insert.php [NC]
+RewriteRule ^UpdateSQL.* update.php [NC]
+RewriteRule ^Delete.* dell.php [NC]
+RewriteRule ^ItemSelect.* item.php [NC]
+RewriteRule ^clear.* clear.php [NC]

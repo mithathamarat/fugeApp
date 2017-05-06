@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteRule ^home.* index.php [NC]
+RewriteRule ^dbSelect.* sql.php [NC]
+RewriteRule ^tableSelect.* table.php [NC]
+RewriteRule ^clear.* clear.php [NC]
+RewriteRule ^delete.* dell.php [NC]
+RewriteRule ^query.* query.php [NC]
