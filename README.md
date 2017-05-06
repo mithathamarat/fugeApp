@@ -1,1 +1,3 @@
 # fugeApp
+
+Php Query generator
